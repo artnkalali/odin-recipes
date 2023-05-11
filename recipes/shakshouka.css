@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: red;
+}
+p{
+    font-size: 22px;
+    font-style: italic;
+    color: plum;
+}
+h2{
+    font-size: 28px;
+    font-style: italic;
+    background-color: yellowgreen;
+}
+.container{
+    background-color: yellow;
+    font-size: 24px;
+    font-style: italic;
+}

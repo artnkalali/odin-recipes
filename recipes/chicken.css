@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    color: purple;
+}
+img{
+    height: 50%;
+    width: auto;
+}
+p{
+    color: brown;
+    font-style: italic;
+}
+h2{
+    background-color: aqua;
+    font-size: 28px;
+    font-style: oblique;
+}
+.container{
+    font-size: 22px;
+    background-color: bisque;
+    font-style: italic;
+    color: green;
+}

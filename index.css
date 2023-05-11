@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 24px;
+    font-style: italic;
+}
+ul {
+    font-size: 24px;
+}
