@@ -1,13 +1,21 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
-h1{
+.a{
+    background-color: aqua;
     text-align: center;
+    font-size: 32px;
+    padding: 22px;
 }
-p{
+.b{
+    background-color: pink;
     font-size: 24px;
     font-style: italic;
+    padding: 18px;
 }
-ul {
+.c{
+    background-color: aquamarine;
     font-size: 24px;
+    padding: 12px;
+    
 }
